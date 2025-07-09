@@ -362,7 +362,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color:; }
+  background-color: #fcf8e3; }
 
 .list-unstyled {
   padding-left: 0;
@@ -1334,7 +1334,7 @@ pre {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529; }
+  color: ; }
   .table th,
   .table td {
     padding: 0.75rem;
